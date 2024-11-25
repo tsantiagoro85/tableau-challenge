@@ -23,4 +23,7 @@ The following trends were of interest:
 
 <img width="1193" alt="Screenshot 2024-11-24 at 8 27 25 PM" src="https://github.com/user-attachments/assets/74cfc69b-e116-4cd0-99dd-677e9883f508">
 
-5. How can we visualize the most popular start stations on a map? And how does the number of rides across the start stations compare from May through August? The map on the left shows the most popular stations to start a bike ride, where those with the biggest sizes, and colored in red are among the most popular based on total number of rides. Zipcodes are also shown on the map.
+5. How can we visualize the most popular start stations on a map? And how does the number of rides across the start stations compare from May through August? The map on the left shows the most popular stations to start a bike ride, where the total number of rides is depicted with the size and color of the circles. Circles shown in red and with the biggest sizes depict the most popular stations based on the total number of rides. Zipcodes are also shown on the map (left). As shown with some of the previous plots, members take advantage of the bikes and perform a number of rides (right). Members seem to start their bike rides more often at 11th Ave and W 41 St during the months of June and July.
+
+<img width="1190" alt="Screenshot 2024-11-24 at 8 28 14 PM" src="https://github.com/user-attachments/assets/83ec5868-8736-49e1-adcd-950daf17a785">
+
