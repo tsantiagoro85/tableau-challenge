@@ -27,3 +27,6 @@ The following trends were of interest:
 
 <img width="1190" alt="Screenshot 2024-11-24 at 8 28 14 PM" src="https://github.com/user-attachments/assets/83ec5868-8736-49e1-adcd-950daf17a785">
 
+6. How can we visualize the most popular stations to end a bike ride on a map? And how does the number of rides across the end stations compare from May through August? The map on the left shows the most popular stations to end a bike ride, where the total number of rides is depicted with the size and color of the circles. Circles shown in red and with the biggest sizes depict the most popular stations based on the total number of rides. Zipcodes are also shown on the map (left). As shown with some of the previous plots, members take advantage of the bikes and perform a number of rides (right). Members seem to end their bike rides more often at W 30 St and 10th Ave during the months of June and July.
+
+<img width="1181" alt="Screenshot 2024-11-24 at 8 35 27 PM" src="https://github.com/user-attachments/assets/bedf7948-9c3e-4121-8792-5eca11947311">
